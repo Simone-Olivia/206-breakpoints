@@ -1,0 +1,21 @@
+
+@charset "UTF-8";
+
+/***Mobile Backgroung color****/
+body {
+  background: #fff8d0;
+}
+
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 769px) {
+	body {
+    background: #e99670;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width: 1200px) {
+  body {
+    background: #8fbc80;
+  }
+}
