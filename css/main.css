@@ -7,7 +7,7 @@ body {
 }
 
 /* ----------- For screens 768px and larger ----------- */
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 	body {
     background: #e99670;
   }
